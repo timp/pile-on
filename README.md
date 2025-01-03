@@ -1,2 +1,2 @@
 # pile-on
-Group interaction model
+Group Asymmetric Interaction Model
